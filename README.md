@@ -5,7 +5,6 @@ Proven ability in creating engaging game applications using Java and currently d
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vlad-aureliu-moraru" alt="vlad-aureliu-moraru" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
