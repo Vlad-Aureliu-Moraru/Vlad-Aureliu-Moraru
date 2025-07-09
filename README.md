@@ -3,7 +3,7 @@
 # 💫 About Me:
 Proven ability in creating engaging game applications using Java and currently developing a Spring Boot backend for an automated presence application. Proficient in a range of technologies including Java, Spring Boot, JavaScript, CSS, HTML, and Python. Eager to contribute to innovative projects and expand technical expertise.
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie/?username=vlad-aureliu-moraru" alt="vlad-aureliu-moraru" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app"><img src="https://github-profile-trophy.vercel.app/?username=vlad-aureliu-moraru" alt="vlad-aureliu-moraru" /></a> </p>
 
 <p align="left">
 </p>
